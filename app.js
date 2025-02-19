@@ -89,7 +89,48 @@
 //     }
 
 // Q6
+// var marks = +prompt('Enter marks');
+// var message;
+// if(marks >= 80 && marks <= 100){
+//     message = "A-one grade"
+// }else if(marks >= 70 && marks <= 79){
+//     message = "A-grade"
+// }else if(marks >= 60 && marks <= 69){
+//     message = "B-grade"
+// }else if(marks >= 0 && marks <= 59){
+//     message = "Fail"
+// }
+// console.log(message)
+
+// Q7 guess game:
+// var userNumber = +prompt("Guess the secret number (between 1 and 10):");
+// var secretNumber = 6;
+// if(userNumber >= 1 && userNumber <= 10){
+// if (userNumber === secretNumber){alert('Bingo! Correct answer.');}
+// else  {alert('Close enough to the correct answer.')};
+// }else  {alert('or the number 1 or 10 is a limit.')};
+
+// Q8
+// var userNumber = parseInt(prompt("Enter a number to check if it's divisible by 3:"));  
+  
+// if (userNumber % 3 === 0) {  
+//     alert(`${userNumber} is divisible by 3.`);  
+// } else {  
+//     alert(`${userNumber} is not divisible by 3.`);  
+// }
+
+// Q9
+// var userInput = parseInt(prompt("Enter a number to check if it's even or odd:"));  
+// if (userInput % 2 == 0) {  
+//     alert(`${userInput} is an even number.`);  
+// } else {  
+//     alert(`${userInput} is an odd number.`);  
+// }
+
+// Q10
+
 
 // USER INPUT & CONDITIONAL STATEMENT (end)
 
 
+ 
